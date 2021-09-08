@@ -6,3 +6,9 @@ The Multisect is a fictional tool in the Marvel Universe. It can access an area 
 Multisect the Elixir program can create many tables and CRUD endpoints to access those tables.
 This will provide a simple user interface to create a table with string or integer options. Once that table is created a route is available
 for the creator of the table to easily access.
+
+### Arcitecture Desinges
+
+1. Elixir API service
+2. Gaudian Authentication
+3. Uses [Hasura](https://github.com/hasura/graphql-engine)
