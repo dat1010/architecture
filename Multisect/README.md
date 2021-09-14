@@ -12,3 +12,16 @@ for the creator of the table to easily access.
 1. Elixir API service
 2. Guardian Authentication
 3. Uses [Hasura](https://github.com/hasura/graphql-engine)
+
+
+### Architecture Structure
+
+1. Setup [Altlantis](https://www.runatlantis.io/) in private github repo
+2. Setup [Terraform](https://www.terraform.io/) for iam infrustructure 
+3. Setp [Terraform](https://www.terraform.io/) for multiplane infrustructure
+
+
+### Architecture
+
+
+
