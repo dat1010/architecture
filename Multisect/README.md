@@ -29,7 +29,8 @@ for the creator of the table to easily access.
 
 
 #### Multiset Service API
-This will be an Elixir API that allows an authorized user to create
+This will be an Elixir API that allows an authorized user to create.  
+
 [API](API/README.md)
 
 #### Migration Service
