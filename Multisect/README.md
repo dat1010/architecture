@@ -30,7 +30,7 @@ for the creator of the table to easily access.
 
 #### Multiset Service API
 This will be an Elixir API that allows an authorized user to create
-[API](Multisect/API/README.md)
+[API](API/README.md)
 
 #### Migration Service
 This service will pull consume from the sqs.
