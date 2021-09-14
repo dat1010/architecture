@@ -25,6 +25,6 @@ for the creator of the table to easily access.
 
 #### Diagram
 
-<img src="Multiset.pdf" width="50%" length="50%">
+<img src="Multiset.png" width="50%" length="50%">
 
 
